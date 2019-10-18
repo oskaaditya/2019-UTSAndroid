@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTS mobile</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">LANJUT</string>
+
+    <string name="slide_1_title">Selamat Datang di iPerpusnas</string>
+    <string name="slide_1_desc">Dibuat oleh anak bangsa</string>
+
+    <string name="slide_2_title">Dimana pun , Kapan pun</string>
+    <string name="slide_2_desc">Kamu bisa akses koleksi bacaan dari aplikasi ini</string>
+
+    <string name="slide_3_title">Banyaklah Membaca Buku</string>
+    <string name="slide_3_desc">Wawasan mu akan menjadi luas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Masukkan Nama Anda</string>
+    <string name="submit">Submit</string>
+
+</resources>
